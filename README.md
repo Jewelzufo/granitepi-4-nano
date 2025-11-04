@@ -8,7 +8,7 @@
 **Date**: 11-01-2025 |
 **Version**: 1.0
 
-**Designed by**: *Julian A. Gonzalez* - {[Linkedin](www.linkedin.com/in/julian-g-7b533129a))
+**Designed by**: *Julian A. Gonzalez* - ([Linkedin](www.linkedin.com/in/julian-g-7b533129a))
 
 **Co-Contributor**: *Thomas Mertens* - ([Linkedin](https://www.linkedin.com/in/tgmertens/))
 
