@@ -7,3 +7,28 @@ The following model formats have successfully been tested on a Raspberry Pi 5 (8
 ## Quantized models (160-461mb)
 
 https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF
+
+
+## Quants
+
+[Q4_K_M](https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF:Q4_K_M)
+
+>**Size**: *(223mb)*
+
+---
+
+[Q4_K_XL](https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF:Q4_K_XL)
+
+>**Size**: *(225mb)*
+
+---
+
+[Q5_K_XL](https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF:Q5_K_XL)
+
+>**Size**: *(253mb)*
+
+---
+
+[Q8_K_XL](https://ollama.com/jewelzufo/unsloth_granite-4.0-h-350m-GGUF:Q8_K_XL)
+
+>**Size**: *(461mb)*
