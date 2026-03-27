@@ -1,12 +1,13 @@
 <h1 align="center">GranitePi-4-Nano</h1>
 
 <p align="center">
-  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/granitepi4.jpg?raw=true" width="600" height="400" alt="GranitePi-4-Nano Banner">
+  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/granitepi4.jpg?raw=true" width="300" height="200" alt="GranitePi-4-Nano Banner">
 </p>
 
 <div align="center">
 
-**Date**: 11-01-2025 | **Version**: 1.1
+<details>
+  <ul><b>Date</b>: 11-01-2025 | <b>Version</b>: 1.2
 
 **Designed by**: *Julian A. Gonzalez* - ([LinkedIn](https://www.linkedin.com/in/julian-g-7b533129a))  
 **Co-Contributor**: *Thomas Mertens* - ([LinkedIn](https://www.linkedin.com/in/tgmertens/))
