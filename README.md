@@ -12,15 +12,14 @@
 **Designed by**: *Julian A. Gonzalez* - ([LinkedIn](https://www.linkedin.com/in/julian-g-7b533129a))  
 **Co-Contributor**: *Thomas Mertens* - ([LinkedIn](https://www.linkedin.com/in/tgmertens/))
 
----
+</div>
+
 ![Last Commit](https://img.shields.io/github/last-commit/Jewelzufo/granitepi-4-nano?style=for-the-badge&color=1F6FEB&labelColor=0D1117)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/Jewelzufo/granitepi-4-nano?style=for-the-badge&color=1F6FEB&labelColor=0D1117)
 ![Raspberry Pi 5](https://img.shields.io/badge/Hardware-Raspberry%20Pi%205-red?logo=raspberrypi)
 ![Ollama](https://img.shields.io/badge/Framework-Ollama-yellow)
 ![IBM Granite](https://img.shields.io/badge/Model-IBM%20Granite%204.0-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
-
-</div>
 
 **Run a full-featured large language model entirely on your Raspberry Pi 5 with zero cloud dependency.**
 
