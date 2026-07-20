@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 echo "========================================"
 echo "📊 GranitePi-4 Quantized Benchmark"
 echo "========================================"
@@ -10,7 +12,10 @@ vcgencmd measure_temp && vcgencmd get_throttled
 
 # 2. Model Pull
 echo -e "\n2. Ensuring Quantized Model is local..."
-ollama pull jewelzufo/unsloth_granite-4.0-h-350m-GGUF
+if ! ollama pull jewelzufo/unsloth_granite-4.0-h-350m-GGUF; then
+    echo "   ❌ Failed to pull model. Please check your internet connection and ollama service."
+    exit 1
+fi
 
 # 3. Model Inference Test
 echo -e "\n3. Running Test Inference..."
