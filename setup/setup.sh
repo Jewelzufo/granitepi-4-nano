@@ -5,6 +5,8 @@
 # Refactored for Robustness, Safety, and Performance
 # ==============================================================================
 
+set -euo pipefail
+
 # Configuration
 MODEL_NAME="jewelzufo/unsloth_granite-4.0-h-350m-GGUF"
 SWAP_SIZE_MB=2048
@@ -15,7 +17,7 @@ MAX_TEMP_C=75      # Warn if CPU is hotter than this
 # Visual styling
 GREEN='\033[0;32m'
 BLUE='\033[0;34m'
-YELLOW='\133[1;33m'
+YELLOW='\033[1;33m'
 RED='\033[0;31m'
 NC='\033[0m'
 
