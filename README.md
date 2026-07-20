@@ -217,3 +217,28 @@ This tutorial and code examples are **Apache 2.0 licensed**. The **IBM Granite m
 ---
 
 **Made with ❤️ for privacy advocates, AI learners, and Raspberry Pi enthusiasts.**
+
+
+---
+
+## Resources 
+
+- [Granite-4.0-H-350m Model Card](https://huggingface.co/ibm-granite/granite-4.0-h-350m)
+
+- [Raspberry Pi 5 Docs](https://www.raspberrypi.com/documentation/)
+
+<br>
+
+### IBM Learning 
+
+- [IBM SkillsBuild](https://www.skillsbuild.org)
+
+### IBM Community 
+
+- [IBM TechXchange](https://community.ibm.com/community/user/community)
+
+### IBM Rising Champions Program
+
+- [IBM Rising Champions](https://www.ibm.com/community/ibm-rising-champions/)
+
+
