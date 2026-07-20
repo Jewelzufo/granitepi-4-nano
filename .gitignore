@@ -1,1 +1,16 @@
-Nothing needs to be added to .gitignore since the changes only include shell script files (.sh) which are source files and not build artifacts, dependencies, or temporary files.
+```
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.local
+.env.*
+.vscode/
+.idea/
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+```
