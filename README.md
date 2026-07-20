@@ -1,9 +1,5 @@
 <h1 align="center">GranitePi-4-Nano</h1>
 
-<p align="center">
-  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/granitepi4.jpg?raw=true" width="300" height="200" alt="GranitePi-4-Nano Banner">
-</p>
-
 <div align="center">
 
 <details>
